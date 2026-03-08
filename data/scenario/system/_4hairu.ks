@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/別荘正面.jpg"  ]
+[preload  storage="./data/bgimage/別荘内昼.jpg"  ]
+[preload  storage="./data/bgimage/黒背景.png"  ]
+[preload  storage="./data/bgimage/別荘内夜.png"  ]
+[return]
